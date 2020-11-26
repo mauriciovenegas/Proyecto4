@@ -13,7 +13,7 @@ un histograma de los datos de senal_Tx y se denota  la estructura del histograma
 rio, de lo contrario no es estacioanrio. Se puede notar también que existe una estacionaridad o no, si se evalúa la media y varianza.
 Para esto se analizó  en multiples partes o secciones de los datos, si coinciden los valores o no, y se compara los resultados.
 
-También se trabajó la ergodicidad de la señal. Para esto se busca determinar si el promedio temporal de los datos es igual o no al promedio(media) 
+También se trabajó la ergodicidad de la señal. Para esto se busca determinar si el promedio temporal de los datos es igual o no al promedio del conjunto 
 de los mismos. En este caso se implementa una función para conocer los valores.
 
 Finalmente se determina y grafica la densidad espectral de potencia. Esto se logra con la ayuda de la transformada rápida de Fourier y el estable-
